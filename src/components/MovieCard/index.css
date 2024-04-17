@@ -1,0 +1,38 @@
+.movie-card-image {
+  width: 100%;
+  max-width: 230px;
+  height: 280px;
+  align-self: center;
+}
+
+.movie-title {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #032541;
+}
+
+.movie-rating {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #83cca6;
+}
+
+.movie-card-container {
+  list-style-type: none;
+}
+
+.details-button {
+  background-color: palevioletred;
+  border-radius: 5px;
+  border-width: 0px;
+  font-size: 15px;
+  font-family: 'bree serif';
+  margin-bottom: 10px;
+}
+
+.heading {
+  font-family: 'bree serif';
+  font-weight: 500;
+}
